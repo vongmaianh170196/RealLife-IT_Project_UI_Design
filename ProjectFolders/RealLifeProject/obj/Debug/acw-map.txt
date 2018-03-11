@@ -1,0 +1,8 @@
+RealLifeProject.MainActivity, RealLifeProject;md54d3ba29b937f31f5d6e32f02d74e4ff3.MainActivity
+RealLifeProject.MainActivity, RealLifeProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54d3ba29b937f31f5d6e32f02d74e4ff3.MainActivity
+RealLifeProject.MainActivity;md54d3ba29b937f31f5d6e32f02d74e4ff3.MainActivity
+reallifeproject.MainActivity;md54d3ba29b937f31f5d6e32f02d74e4ff3.MainActivity
+RealLifeProject.SiteList, RealLifeProject;md54d3ba29b937f31f5d6e32f02d74e4ff3.SiteList
+RealLifeProject.SiteList, RealLifeProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54d3ba29b937f31f5d6e32f02d74e4ff3.SiteList
+RealLifeProject.SiteList;md54d3ba29b937f31f5d6e32f02d74e4ff3.SiteList
+reallifeproject.SiteList;md54d3ba29b937f31f5d6e32f02d74e4ff3.SiteList
