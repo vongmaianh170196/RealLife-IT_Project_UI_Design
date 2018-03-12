@@ -166,7 +166,6 @@ E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\Sit
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\bin\Debug\Xamarin.Forms.Xaml.pdb
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\bin\Debug\Xamarin.Forms.Xaml.xml
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\SiteList.csprojResolveAssemblyReference.cache
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\SiteList.csproj.CoreCompileInputs.cache
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\SiteList.dll
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\SiteList.pdb
@@ -183,14 +182,16 @@ E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\Sit
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\res\values\color.xml
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\R.cs.flag
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\uploadflags.txt
+E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\res\drawable\camera_btn_91px.png
+E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\res\drawable\next_button.png
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\bin\Debug\SiteList.dll.mdb
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\android\assets\SiteList.dll.mdb
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
 E:\LAMK\Homework_3\Reallife-IT\UI_Anh\RealLife-IT_Project_UI_Design\SiteList\SiteList\bin\Debug\SiteList.dll
-bin\Debug\Mono.Android.pdb
 bin\Debug\mscorlib.pdb
 bin\Debug\System.Core.pdb
 bin\Debug\System.pdb
@@ -205,7 +206,6 @@ obj\Debug\linksrc\FormsViewGroup.dll.mdb
 obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
 obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
 obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
-obj\Debug\linksrc\Mono.Android.pdb
 obj\Debug\linksrc\mscorlib.pdb
 obj\Debug\linksrc\System.Core.pdb
 obj\Debug\linksrc\System.pdb

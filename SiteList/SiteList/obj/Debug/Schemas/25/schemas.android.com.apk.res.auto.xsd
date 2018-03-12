@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>11/03/2018 23:30:31</xs:documentation>
+    <xs:documentation>13/03/2018 01:36:34</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -1246,6 +1246,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -1419,6 +1420,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -1876,6 +1878,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -2049,6 +2052,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -2381,6 +2385,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -2554,6 +2559,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -2886,6 +2892,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -3059,6 +3066,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -5744,6 +5752,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -5917,6 +5926,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -6249,6 +6259,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -6422,6 +6433,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -6856,6 +6868,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -7029,6 +7042,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -7606,6 +7620,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -7779,6 +7794,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -8111,6 +8127,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -8284,6 +8301,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -9624,6 +9642,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -9797,6 +9816,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -10129,6 +10149,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -10302,6 +10323,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -10695,6 +10717,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -10868,6 +10891,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -11200,6 +11224,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -11373,6 +11398,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -11795,6 +11821,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -11968,6 +11995,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -12565,6 +12593,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -12738,6 +12767,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -13149,6 +13179,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -13322,6 +13353,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -13864,6 +13896,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -14037,6 +14070,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -14579,6 +14613,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -14752,6 +14787,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -15084,6 +15120,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -15257,6 +15294,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -15691,6 +15729,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -15864,6 +15903,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -16719,6 +16759,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -16892,6 +16933,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -17326,6 +17368,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -17499,6 +17542,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -17933,6 +17977,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -18106,6 +18151,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -18711,6 +18757,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -18884,6 +18931,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -19404,6 +19452,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -19577,6 +19626,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -20484,6 +20534,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -20657,6 +20708,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -20989,6 +21041,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -21162,6 +21215,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -21676,6 +21730,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -21849,6 +21904,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -22391,6 +22447,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -22564,6 +22621,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -22998,6 +23056,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -23171,6 +23230,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -23713,6 +23773,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -23886,6 +23947,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -24594,6 +24656,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -24767,6 +24830,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -25099,6 +25163,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -25272,6 +25337,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -27746,6 +27812,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -27919,6 +27986,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -30063,6 +30131,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -30236,6 +30305,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -30778,6 +30848,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -30951,6 +31022,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -31283,6 +31355,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -31456,6 +31529,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -32062,6 +32136,7 @@
             <xs:enumeration value="@drawable/add_btn" />
             <xs:enumeration value="@drawable/avd_hide_password" />
             <xs:enumeration value="@drawable/avd_show_password" />
+            <xs:enumeration value="@drawable/camera_btn_91px" />
             <xs:enumeration value="@drawable/design_bottom_navigation_item_background" />
             <xs:enumeration value="@drawable/design_fab_background" />
             <xs:enumeration value="@drawable/design_ic_visibility" />
@@ -32235,6 +32310,7 @@
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_dark" />
             <xs:enumeration value="@drawable/mr_vol_type_audiotrack_light" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
+            <xs:enumeration value="@drawable/next_button" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />

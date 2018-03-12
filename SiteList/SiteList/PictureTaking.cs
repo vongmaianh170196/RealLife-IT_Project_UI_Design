@@ -15,10 +15,16 @@ namespace SiteList
     [Activity(Label = "PictureTaking")]
     public class PictureTaking : Activity
     {
-        protected override void OnCreate(Bundle savedInstanceState)
+        protected override void OnCreate(Bundle bundle)
         {
-            base.OnCreate(savedInstanceState);
+            base.OnCreate(bundle);
             SetContentView(Resource.Layout.PictureTaking);
+
+            Button camerabtn = FindViewById<Button>(Resource.Id.camerabtn);
+            Button nextbtn = FindViewById<Button>(Resource.Id.nextbtn_arrow);
+            ImageView img = FindViewById<ImageView>(Resource.Id.img_taken);
+
+
             // Create your application here
         }
     }
