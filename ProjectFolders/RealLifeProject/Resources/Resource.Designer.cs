@@ -118,13 +118,22 @@ namespace RealLifeProject
 			public const int add_btn = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int folder_icon = 2130837505;
+			public const int camera_btn_91px = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int logo = 2130837506;
+			public const int folder_icon = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int search_btn = 2130837507;
+			public const int google_login_btn = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int logo = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int next_button = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int search_btn = 2130837510;
 			
 			static Drawable()
 			{
@@ -142,11 +151,17 @@ namespace RealLifeProject
 			// aapt resource value: 0x7f060003
 			public const int add_btn = 2131099651;
 			
+			// aapt resource value: 0x7f06000d
+			public const int camerabtn = 2131099661;
+			
 			// aapt resource value: 0x7f060005
 			public const int email_input = 2131099653;
 			
 			// aapt resource value: 0x7f06000a
 			public const int folder_icon = 2131099658;
+			
+			// aapt resource value: 0x7f06000c
+			public const int img_taken = 2131099660;
 			
 			// aapt resource value: 0x7f060002
 			public const int listViewLayout = 2131099650;
@@ -156,6 +171,9 @@ namespace RealLifeProject
 			
 			// aapt resource value: 0x7f060004
 			public const int logo = 2131099652;
+			
+			// aapt resource value: 0x7f06000e
+			public const int nextbtn_arrow = 2131099662;
 			
 			// aapt resource value: 0x7f060006
 			public const int password_input = 2131099654;
@@ -199,6 +217,9 @@ namespace RealLifeProject
 			
 			// aapt resource value: 0x7f030003
 			public const int ProjectListItem = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int TakingPicture = 2130903044;
 			
 			static Layout()
 			{

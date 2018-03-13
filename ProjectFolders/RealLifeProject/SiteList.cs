@@ -43,7 +43,8 @@ namespace RealLifeProject
             projectList = (ListView)FindViewById<ListView>(Resource.Id.listViewLayout);
             //Displaying of items from Array ProjectListItem.axml
             projectList.Adapter = new ArrayAdapter(this, Resource.Layout.ProjectListItem, Resource.Id.project_list_items, projectitems);
-
+            //Click item
+            projectList.ItemClick += ProjectList_ItemClick;
             //Add project button
             Button addProject_button = FindViewById<Button>(Resource.Id.add_btn);
             /*
@@ -67,6 +68,13 @@ namespace RealLifeProject
                 Android.App.AlertDialog dialogBox = createBox.Create();
                 dialogBox.Show();
             };
+        }
+
+        private void ProjectList_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
+        {
+            //when item folder is clicked, it goes to next page to take picture
+            StartActivity(typeof(TakingPicture));
+          
         }
     }
 }

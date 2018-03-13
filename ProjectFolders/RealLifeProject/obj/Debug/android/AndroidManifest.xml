@@ -12,6 +12,7 @@
       </intent-filter>
     </activity>
     <activity android:label="SiteList" android:theme="@android:style/Theme.DeviceDefault.NoActionBar" android:name="md54d3ba29b937f31f5d6e32f02d74e4ff3.SiteList" />
+    <activity android:label="TakingPicture" android:name="md54d3ba29b937f31f5d6e32f02d74e4ff3.TakingPicture" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="RealLifeProject.RealLifeProject.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

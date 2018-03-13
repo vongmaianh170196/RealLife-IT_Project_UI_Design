@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/img_taken"
+        android:adjustViewBounds="true" />
+    <Button
+        android:id="@+id/camerabtn"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/camera_btn_91px"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true" />
+    <Button
+        android:id="@+id/nextbtn_arrow"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/next_button"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true" />
+    
+</RelativeLayout>

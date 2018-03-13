@@ -33,17 +33,23 @@ public final class R {
     }
     public static final class drawable {
         public static final int add_btn=0x7f020000;
-        public static final int folder_icon=0x7f020001;
-        public static final int logo=0x7f020002;
-        public static final int search_btn=0x7f020003;
+        public static final int camera_btn_91px=0x7f020001;
+        public static final int folder_icon=0x7f020002;
+        public static final int google_login_btn=0x7f020003;
+        public static final int logo=0x7f020004;
+        public static final int next_button=0x7f020005;
+        public static final int search_btn=0x7f020006;
     }
     public static final class id {
         public static final int add_btn=0x7f060003;
+        public static final int camerabtn=0x7f06000d;
         public static final int email_input=0x7f060005;
         public static final int folder_icon=0x7f06000a;
+        public static final int img_taken=0x7f06000c;
         public static final int listViewLayout=0x7f060002;
         public static final int login_btn=0x7f060007;
         public static final int logo=0x7f060004;
+        public static final int nextbtn_arrow=0x7f06000e;
         public static final int password_input=0x7f060006;
         public static final int project_input=0x7f060009;
         public static final int project_list_items=0x7f06000b;
@@ -56,6 +62,7 @@ public final class R {
         public static final int main=0x7f030001;
         public static final int newprojectcreate=0x7f030002;
         public static final int projectlistitem=0x7f030003;
+        public static final int takingpicture=0x7f030004;
     }
     public static final class string {
         public static final int app_name=0x7f050000;
